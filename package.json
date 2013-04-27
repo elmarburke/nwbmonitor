@@ -1,0 +1,13 @@
+{
+  "name": "nwb-twitter-frontend",
+  "version": "0.0.1-dev",
+  "author": "Elmar <schmalzlocke@gmail.com>",
+  "dependencies": {
+    "ntwitter": "*",
+    "coffee-script": "*"
+  },
+  "engines": {
+      "node": "0.8.x",
+      "npm":  "1.2.x"
+    }
+}
