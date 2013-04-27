@@ -15,7 +15,7 @@ Hiermit wird unentgeltlich, jeder Person, die eine Kopie der Software und der zu
 
 Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder Teilkopien der Software beizulegen.
 
-Außerdem ist bei dem Einsatz der Software bei der Installation ein gutes Bier oder wahlweise ein guter Wein zu trinken. Abstinent lebende Menschen müssen auf eine gute Mahlzeit ausweichen.
+Außerdem ist bei dem Einsatz der Software bei der Installation ein **gutes Bier** oder wahlweise ein **guter Wein** zu trinken. Abstinent lebende Menschen müssen auf eine gute Mahlzeit ausweichen.
 
 DIE SOFTWARE WIRD OHNE JEDE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIE BEREITGESTELLT, EINSCHLIESSLICH DER GARANTIE ZUR BENUTZUNG FÜR DEN VORGESEHENEN ODER EINEM BESTIMMTEN ZWECK SOWIE JEGLICHER RECHTSVERLETZUNG, JEDOCH NICHT DARAUF BESCHRÄNKT. IN KEINEM FALL SIND DIE AUTOREN ODER COPYRIGHTINHABER FÜR JEGLICHEN SCHADEN ODER SONSTIGE ANSPRÜCHE HAFTBAR ZU MACHEN, OB INFOLGE DER ERFÜLLUNG EINES VERTRAGES, EINES DELIKTES ODER ANDERS IM ZUSAMMENHANG MIT DER SOFTWARE ODER SONSTIGER VERWENDUNG DER SOFTWARE ENTSTANDEN.
 
